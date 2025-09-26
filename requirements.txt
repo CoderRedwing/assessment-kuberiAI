@@ -1,0 +1,7 @@
+google-generativeai
+python-dotenv
+sqlmodel
+psycopg2-binary
+fastapi
+uvicorn[standard]
+httpx
